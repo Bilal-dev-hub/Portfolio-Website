@@ -476,10 +476,6 @@ li {
         font-size: small;
     }
 
-    button {
-        background-color: white;
-    }
-
     .containe {
         display: flex;
         flex-direction: column;
